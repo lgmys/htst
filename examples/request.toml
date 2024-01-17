@@ -1,0 +1,2 @@
+method = "get"
+url = "https://httpbin.org/ip"
